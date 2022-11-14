@@ -41,13 +41,13 @@ body{
 
 @font-face {
     font-family: 'Main';
-    src: url(../fonts/Gilroy\ GEO\ Black.ttf);
+    src: url(../fonts/Gilroy-GEO-Black.ttf);
     font-display: fallback;
 }
 
 @font-face {
     font-family: 'Main-Caps';
-    src: url(../fonts/Gilroy\ GEO\ Heavy.ttf);
+    src: url(../fonts/Gilroy-GEO-Heavy.ttf);
     font-display: fallback;
 }
 

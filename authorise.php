@@ -16,12 +16,11 @@
     <main>
         <center><img src="assets/icons/LOGO.svg" alt="LOGO"></center>
         <section>
-            <h2>არ გაქვს<br>ანგარიში?<h2 class="caps">შემოგვიერთდი!</h2></h2><br>
-            <input type="text" placeholder="რა გქვია?">
-            <input type="text" placeholder="გაგვიზიარე ელ-ფოსტა">
+            <h2>გაიარეა<br>ვტორიზაცია</h2><br>
+            <input type="text" placeholder="სახელი ან ელ-ფოსტა">
             <input type="password" placeholder="შეიყვანე პაროლი">
             <button>რეგისტრაცია</button>
-            <p>გაიარე <a href="authorise.php">ავტორიზაცია</a>, თუ უკვე ხარ ჩვენი ოჯახის წევრი</p>
+            <p>არ გაქვს ანგარიში? <a href="index.php">შემოგვიერთდი!</a></p>
         </section>
     </main>
 
