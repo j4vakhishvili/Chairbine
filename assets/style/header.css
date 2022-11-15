@@ -1,0 +1,38 @@
+header{
+    width: 100%;
+    position: fixed;
+    padding-top: 18px;
+}
+
+img.logo, .user{
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+
+h1{
+    font-family: 'Main-Caps', 'MarkGeo-M', sans-serif;
+    color: #7EDE00;
+    font-size: 21px;
+    margin-left: 16px;
+}
+
+::selection {
+    background: #FFCC00;
+    color: white;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+section.logo{
+    display: flex;
+    align-items: center;
+}
+
+.user{
+    border-radius: 10px;
+    border: 1px solid #707070;
+}

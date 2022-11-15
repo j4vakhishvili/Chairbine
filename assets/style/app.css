@@ -1,0 +1,152 @@
+main{
+    padding-top: 80px;
+}
+
+.cal{
+    background: #DCF0CA;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h3, h2{
+    font-family: 'Main', 'MarkGeo-B', sans-serif;
+    margin: 0;
+    color: #2C2C2C;
+}
+
+h3{
+    width: 120px;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 46px;
+    color: #FCC417;
+}
+
+.calOne{
+    padding: 24px;
+}
+
+section.separate:not(:first-child){
+    background: url(../icons/workout-illustration.svg);
+    width: 67px;
+    height: 95px;
+    padding-right: 28px;
+    background-repeat: no-repeat;
+}
+
+.icon{
+    width: 24px;
+    height: 24px;
+}
+
+.current-icon{
+    background: url(../icons/current-offer-icon.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.offers{
+    margin-top: 20px;
+}
+
+h4{
+    color: #2C2C2C;
+    font-size: 16px;
+    font-family: 'Main-Caps', 'MarkGeo-M', sans-serif;
+    margin: 0;
+    margin-left: 10px;
+}
+
+section.offers-head{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.offers-body{
+    display: flex;
+    gap: 5px;
+}
+
+.map{
+    width: 100%;
+    height: 100%;
+    border-radius: 18px;
+    outline: 1px solid #7EDE00;
+}
+
+.separateCurrentOffer{
+    width: 145px;
+    height: 145px;
+    border-radius: 18px;
+}
+
+section.separateCurrentOffer:not(:first-child){
+    background: #F0F0F0;
+}
+
+p{
+    margin: 0;
+    margin-left: 10px;
+    margin-top: 2px;
+    font-size: 12px;
+    font-family: 'Main', 'MarkGeo-M', sans-serif;
+    color: #525252;
+}
+
+.separateCurrentOffer h4{
+    color: #000;
+}
+
+div.remains{
+    background: #f9f9f9;
+    border-radius: 8px;
+    width: 120px;
+    height: 45px;
+    margin-left: 10px;
+    margin-top: 9px;
+    display: flex;
+    justify-content: space-between;
+}
+
+p.remains{
+   font-size: 10px;
+   margin-left: 8px;
+   color: #000;
+}
+
+h5{
+    font-size: 22px;
+    font-family: 'Main', 'MarkGeo-M', sans-serif;
+    color: #7EDE00;
+    margin: 0;
+    margin-left: 8px;
+}
+
+h6{
+    font-size: 12px;
+    color: #000;
+    font-family: 'Main', 'MarkGeo-M', sans-serif;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.separateRemains:not(:first-child){
+    display: flex;
+    flex-direction: column-reverse;
+    margin-right: 8px;
+}
+
+.remainsInfo{
+    margin-top: 10px;
+}
+
+.suits-u-icon{
+    background: url(../icons/you-might-like-icon.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}

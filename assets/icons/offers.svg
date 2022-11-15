@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="vuesax_linear_medal-star" data-name="vuesax/linear/medal-star" transform="translate(-684 -252)">
+    <g id="medal-star" transform="translate(684 252)">
+      <path id="Vector" d="M18.667,9.333a9.271,9.271,0,0,1-7.933,9.213,8.227,8.227,0,0,1-2.8,0A9.327,9.327,0,1,1,18.667,9.333Z" transform="translate(6.667 2.667)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M25.694,7.427l-2.2.52a1.308,1.308,0,0,0-.987.987l-.467,1.96a1.334,1.334,0,0,1-2.32.547l-6.36-7.307L7,11.453a1.334,1.334,0,0,1-2.32-.547l-.467-1.96a1.328,1.328,0,0,0-.987-.987l-2.2-.52A1.337,1.337,0,0,1,.387,5.2L5.587,0a9.314,9.314,0,0,0,6.373,4.027,8.042,8.042,0,0,0,1.4.12,8.042,8.042,0,0,0,1.4-.12A9.314,9.314,0,0,0,21.134,0l5.2,5.2A1.327,1.327,0,0,1,25.694,7.427Z" transform="translate(2.639 17.2)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M5.193.64l.787,1.573a.966.966,0,0,0,.64.467l1.427.24c.907.147,1.12.813.467,1.467L7.406,5.493a.945.945,0,0,0-.227.813L7.5,7.68c.253,1.08-.32,1.507-1.28.933L4.886,7.827a.935.935,0,0,0-.88,0l-1.333.787c-.96.56-1.533.147-1.28-.933l.32-1.373a1,1,0,0,0-.227-.813L.379,4.387C-.274,3.733-.061,3.08.846,2.92l1.427-.24A.972.972,0,0,0,2.9,2.213L3.686.64C4.073-.213,4.766-.213,5.193.64Z" transform="translate(11.581 7.333)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H32V32H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

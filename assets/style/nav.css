@@ -1,0 +1,37 @@
+nav{
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    background: #F4F4F4;
+    bottom: 0;
+    display: flex;
+}
+
+.nav-icon{
+    width: 32px;
+    height: 32px;
+}
+
+.icon-home{
+    background: url(../icons/home-active.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-offers{
+    background: url(../icons/offers.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-challanges{
+    background: url(../icons/challanges.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-favorites{
+    background: url(../icons/favorites.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
